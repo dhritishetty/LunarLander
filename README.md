@@ -14,27 +14,15 @@ This project demonstrates the application of Deep Q-Learning (DQL) to solve the 
 - Visualization of training progress and agent's performance.
 - Evaluation of the trained agent's ability to land the lunar module in different scenarios.
 
-## Requirements
-
-To run this project, you need the following dependencies:
-- Python 3.x
-- TensorFlow or PyTorch (for the deep learning models)
-- NumPy
-- OpenAI Gym
-- Matplotlib (for visualizations)
-
-You can install the required packages using pip:
-```bash
-pip install numpy gym matplotlib tensorflow  # or pytorch instead of tensorflow
-```
-
 ## How to Run
-1. **Clone the Repository**:
-```bash
-git clone https://github.com/dhritishetty/LunarLander
-```
-2. **Run the Notebook**:
-Open the `Deep_Q_Learning_for_Lunar_Landing.ipynb` notebook in Jupyter and run the cells to train the agent.
+1. **Access the Colab Notebook**:
+Open the Lunar Lander Colab Notebook to view and run the project code directly in Google Colab.
 
-3. **Evaluate the Agent**:
+2 **Run the Cells**:
+Execute the cells in the notebook sequentially to train the agent and visualize its performance.
+
+3 **Evaluate the Agent**:
 After training, evaluate the agent's performance by running the evaluation cells in the notebook.
+
+## Results
+To see the results of this project, visit the [Google Colab notebook](https://colab.research.google.com/github/dhritishetty/LunarLander/blob/main/Deep%20Q-Learning%20for%20Lunar%20Landing.ipynb) where you can interactively view the training process and visualizations.
